@@ -9,3 +9,6 @@ Linux is one of the most prominent examples of free and open-source software col
  under the terms of its respective licenses, such as the GNU General Public License (GPL). 
  The Linux kernel, for example, is licensed under the GPLv2, with an exception for system calls
  that allows code that calls the kernel via system calls not to be licensed under the GPL.[42][43][25]
+ 
+ Yeah ippudu deenini update chesthunna
+ 
